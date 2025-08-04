@@ -26,6 +26,7 @@ Clean and prepare raw marketing data by handling:
 - Python
 - Pandas
 - NumPy
+
   ---
   
 ### 👤 Intern Info:
