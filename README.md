@@ -27,6 +27,7 @@ Clean and prepare raw marketing data by handling:
 - Pandas
 - NumPy
   ---
+  
 ### 👤 Intern Info:
 - **Name**: Garima Negi
 - **Environment**: Google Colab + Python
